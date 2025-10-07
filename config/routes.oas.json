@@ -23,7 +23,8 @@
           },
           "policies": {
             "inbound": [
-              "api-key-auth"
+              "api-key-auth",
+              "rate-limit-inbound"
             ]
           }
         },
